@@ -1,0 +1,6 @@
+30-10-2022 17:27:=====socket creado. Puerto escucha: 5000=====
+30-10-2022 17:27:=====Conexion aceptada=====
+30-10-2022 17:29:=====Conexion cerrada=====
+30-10-2022 17:29:=====Conexion aceptada=====
+30-10-2022 17:31:=====Conexion cerrada por inactividad=====
+30-10-2022 17:33:=====Conexion aceptada=====
